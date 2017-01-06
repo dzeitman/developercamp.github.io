@@ -1,15 +1,28 @@
 Developer Camp NYC
 
 Services and Software Downloads:
-
-Firebase Platform:
+Firebase Platform:(PAAS)
 http://firebase.google.com
 
-PullString:
-
+PullString: (PAAS)
 http://pullstring.com
-PullString Author:
+PullString Author: (Mac / PC)
 https://platform.pullstring.com/projects/download/
 
-PubNub
-http://Pubnub.com
+Facebook:(PAAS)
+http://developers.facebook.com
+
+GitHub: (PAAS)
+http://github.com
+
+HTML / Text Editor: (Mac / PC / Linux)
+SubLime Text 3:
+https://www.sublimetext.com/3
+
+iOS IDE (Mac Only)
+XCode:
+https://itunes.apple.com/us/app/xcode/id497799835?mt=12
+
+Real-Time Platform:
+PubNub  (PAAS)
+http://PubNub.com
